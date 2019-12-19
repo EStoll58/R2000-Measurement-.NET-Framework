@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R2000 Measurement .NET Framework", "R2000 Measurement .NET Framework.csproj", "{5164B7D3-C200-4200-A413-685742791192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R2000-Library", "..\R2000-Library-Clone\R2000-Library.csproj", "{3728259C-7ABF-42E1-9985-53D1876454D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5164B7D3-C200-4200-A413-685742791192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5164B7D3-C200-4200-A413-685742791192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5164B7D3-C200-4200-A413-685742791192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5164B7D3-C200-4200-A413-685742791192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3728259C-7ABF-42E1-9985-53D1876454D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3728259C-7ABF-42E1-9985-53D1876454D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3728259C-7ABF-42E1-9985-53D1876454D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3728259C-7ABF-42E1-9985-53D1876454D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0441AD5-BC4D-4E42-BEFA-9BC545577C95}
+	EndGlobalSection
+EndGlobal
